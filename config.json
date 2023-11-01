@@ -1,0 +1,23 @@
+{
+    "client": {
+        "clientID": "857649687083089931",
+        "clientSecret": "JGJNjs2qdgtyOJK-oT5WSakqf5GKhCJg",
+        "spotifyClientID": "",
+        "spotifyClientSecret": ""
+    },
+    "presence": {
+        "status": "online",
+        "message": "|| Love From Heart 💙",
+        "type": "PLAYING"
+    },
+    "emoji": {
+        "success": "",
+        "failed": "",
+        "error": ""
+    },
+    "defaultEmbedColor": "#ff7c00",
+    "prefix": ".",
+    "permissions": "",
+    "owner": "",
+    "supportServer": "https://discord.gg/6GDMuFxutZ"
+}
